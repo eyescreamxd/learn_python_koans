@@ -22,7 +22,7 @@ def test_for_loop():
     str1 = "Python"
 
     for letter in str1[2]:
-        assert letter == ___
+        assert letter == 't'
 
 
 def test_for_loop_with_list():
